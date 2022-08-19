@@ -1,1 +1,6 @@
 hello
+public static void main(){
+main method is available
+Hello h1=new  hello
+
+}
